@@ -47,4 +47,3 @@ pulse widths void loop()
             ;
     }
 }
-Discussion
